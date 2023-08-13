@@ -1,4 +1,6 @@
-![GraphQL Banner](https://graphql.org/img/logo.svg)
+<p align="center">
+  <img src="https://graphql.org/img/logo.svg" alt="GraphQL Banner" height="200">
+</p>
 
 # Quick Look at GraphQL: A Crash Course
 
