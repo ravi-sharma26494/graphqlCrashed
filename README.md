@@ -1,4 +1,4 @@
-<p align="center" style="background-color: powderblue;">
+<p align="center">
   <img src="https://graphql.org/img/logo.svg" alt="GraphQL Banner" height="200">
 </p>
 
