@@ -47,4 +47,4 @@ This README provides a quick crash course on GraphQL, highlighting its key conce
 - See how queries and mutations are executed and data is fetched.
 - Experiment with querying the GraphQL schema directly in the explorer.
 
-By the end of this crash course, you should have a basic understanding of GraphQL's concepts, its advantages, and how to work with schemas, types, resolvers, and visualization tools like Apollo Graph Explorer. Happy learning!
+
